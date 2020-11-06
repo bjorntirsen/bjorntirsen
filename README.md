@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on my first portfolio page.
 
-📫 How to reach me: http://www.linkedin.com/in/bjorntirsen
+📫 How to reach me: bjorntirsen@gmail.com
 
 <!--
 **bjorntirsen/bjorntirsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
