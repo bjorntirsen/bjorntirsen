@@ -1,8 +1,10 @@
 ### Hi there 👋 
 
-🔭 I’m currently working on my first portfolio page.
+🔭 I’m currently working on a 2.0 version of my Yatzee site.
 
 📫 How to reach me: bjorntirsen@gmail.com
+
+🍂 Check out my portfolio at bjorntirsen.github.io
 
 <!--
 **bjorntirsen/bjorntirsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
