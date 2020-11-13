@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-🔭 I’m currently working on a 2.0 version of my Yatzee site.
+🔭 I’m currently working on a 2.0 version of my Yahtzee site.
 
 📫 How to reach me: bjorntirsen@gmail.com
 
