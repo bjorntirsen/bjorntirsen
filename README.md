@@ -4,7 +4,7 @@
 
 📫 How to reach me: bjorntirsen@gmail.com
 
-🍂 Check out my portfolio at bjorntirsen.github.io
+🍂 Check out my portfolio at https://bjorntirsen.github.io
 
 <!--
 **bjorntirsen/bjorntirsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
