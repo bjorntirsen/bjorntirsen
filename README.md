@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-🔭 I’m currently working on a back-end API for a front-end React app i made as a school assignment.
+🔭 I’m currently working on an Express/MongoDB back-end API for a front-end React app i made as a school assignment.
 
 📫 How to reach me: bjorntirsen@gmail.com
 
