@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-🔭 I’m currently working on an Express/MongoDB back-end API for a front-end React app i made as a school assignment.
+🔭 I’m currently following this excellent Udemy course (https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/) by Jonas Schmedtmann (https://codingheroes.io/).
 
 📫 How to reach me: bjorntirsen@gmail.com
 
