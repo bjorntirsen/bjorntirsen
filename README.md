@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-🔭 I’m currently following this excellent Udemy course (https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/) by Jonas Schmedtmann (https://codingheroes.io/).
+🔭 I’m currently working on a v2.0 of my portfolio.
 
 📫 How to reach me: bjorntirsen@gmail.com
 
