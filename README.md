@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-🔭 I’m currently working on a v2.0 of my portfolio.
+🔭 I’m currently working on my first Next.js/TypeScript project. I also aim to complete my v2.0 of my portfolio when i get the time.
 
 📫 How to reach me: bjorntirsen@gmail.com
 
