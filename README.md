@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-🔭 I’m currently working on my portfolio 3.0 buildt with Next.js and TS. I'm also a web developer at Handelsbanken in Stockholm.
+🔭 I’m currently working on my portfolio 3.0 built with Next.js and TS. I'm also a web developer at Handelsbanken in Stockholm.
 
 📫 How to reach me: bjorntirsen@gmail.com
 
