@@ -1,10 +1,10 @@
 ### Hi there 👋 
 
-🔭 I’m currently working on a Next.js CMS head app that is going to be awesome. I'm also developing Handelsbanken's front end as an intern.
+🔭 I’m currently working on my portfolio 3.0 buildt with Next.js and TS. I'm also a web developer at Handelsbanken in Stockholm.
 
 📫 How to reach me: bjorntirsen@gmail.com
 
-🍂 Check out my portfolio at https://bjorntirsen-portfolio.netlify.app/
+🍂 Check out my portfolio (2.0) at https://bjorntirsen-portfolio.netlify.app/
 
 <!--
 **bjorntirsen/bjorntirsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
