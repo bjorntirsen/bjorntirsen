@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-🔭 I’m currently working on my portfolio 3.0 built with Next.js and TS. I'm also a web developer at SBAB in Stockholm.
+🔭 I’m currently working on my portfolio 3.0 built with Next.js and TS. I'm also a web developer at SBAB in Stockholm. Sometime in the future I'm going to have time to clean up my GitHub repos... 😂
 
 📫 How to reach me: bjorntirsen@gmail.com
 
