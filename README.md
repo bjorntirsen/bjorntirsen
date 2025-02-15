@@ -1,10 +1,8 @@
 ### Hi there 👋 
 
-🔭 I’m currently working on my portfolio 3.0 built with Next.js and TS. I'm also a web developer at SBAB in Stockholm. Sometime in the future I'm going to have time to clean up my GitHub repos... 😂
+📫 How to reach me: https://www.linkedin.com/in/bjorntirsen
 
-📫 How to reach me: bjorntirsen@gmail.com
-
-🍂 Check out my portfolio (2.0) at https://bjorntirsen-portfolio.netlify.app/
+👨‍💻 Check out my portfolio at https://bjorntirsen.se
 
 <!--
 **bjorntirsen/bjorntirsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
