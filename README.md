@@ -2,7 +2,7 @@
 
 📫 How to reach me: https://www.linkedin.com/in/bjorntirsen
 
-👨‍💻 Check out my portfolio at https://bjorntirsen.se
+👨‍💻 Check out my portfolio at https://www.bjorntirsen.se
 
 <!--
 **bjorntirsen/bjorntirsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
