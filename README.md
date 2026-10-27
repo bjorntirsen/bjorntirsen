@@ -1,20 +1,16 @@
-### Hi there 👋 
+### Hi, I'm Björn 👋
 
-📫 How to reach me: https://www.linkedin.com/in/bjorntirsen
+Software engineer in Stockholm. Full stack by training, platform engineer by habit. These days I work on the identity platform behind login and digital signing at SBAB.
 
-👨‍💻 Check out my portfolio at https://www.bjorntirsen.se
+**Now:** OAuth 2.0 / OpenID Connect, Java and Spring, CI/CD and keeping large monorepos healthy.
 
-<!--
-**bjorntirsen/bjorntirsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### What I'm building on the side
 
-Here are some ideas to get you started:
+- [**bt-auth**](https://github.com/bjorntirsen/bt-auth) + [**bt-auth-server**](https://github.com/bjorntirsen/bt-auth-server): an identity provider built by hand to learn OAuth/OIDC from the ground up. React + Express BFF in front of a Spring Boot authorization server. _Work in progress._
+- [**will-my-tokens-last**](https://github.com/bjorntirsen/will-my-tokens-last): paces AI token usage over the working days left in the month. [Try it](https://bjorntirsen.github.io/will-my-tokens-last/).
+- [**portfolio**](https://github.com/bjorntirsen/portfolio): [bjorntirsen.se](https://www.bjorntirsen.se), Next.js with Directus content, self-hosted with Docker/Coolify.
+- [**renovate-config**](https://github.com/bjorntirsen/renovate-config): shared Renovate preset with grouping, digest pinning and CI validation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Older school and course projects are archived. The highlights are on [bjorntirsen.se](https://www.bjorntirsen.se/#projects).
+
+📫 [LinkedIn](https://www.linkedin.com/in/bjorntirsen) · 🌐 [bjorntirsen.se](https://www.bjorntirsen.se)
